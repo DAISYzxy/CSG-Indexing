@@ -38,7 +38,6 @@ $ sudo apt-get install g++ cmake libboost-dev libgoogle-perftools-dev
 2. Compile CSG:
 
 ```shell
-$ git clone https://github.com/DAISYzxy/CSG.git
 $ cd CSG/
 $ mkdir build/ && cd build/
 $ cmake -DCMAKE_BUILD_TYPE=Release ..
