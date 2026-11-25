@@ -1,6 +1,6 @@
 # CSG: Multimodal Approximate Nearest Neighbor Search with The Cross-Shards Graph
 
-Technical report: [PDF](CSG_Technical_Report.pdf).
+Appendix: [PDF](appendix.pdf) — proofs and additional experimental results.
 
 <img src="case_study.png" width="1000px">
 
